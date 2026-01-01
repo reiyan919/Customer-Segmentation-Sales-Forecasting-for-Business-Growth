@@ -121,8 +121,7 @@ Geographic sales map
 
 Design Principles Reference:
 Tableau – Dashboard Design Best Practices
-https://www.tableau.com/learn/articles/dashboard-design
-
+(https://public.tableau.com/app/profile/rayan.ra4401/viz/GlobalSuperstoreSalesPerformance_17672117692100/Dashboard1)
 🔹 Key Business Insights
 
 Sales performance varies significantly by region
